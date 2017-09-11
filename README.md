@@ -9,3 +9,5 @@ conda install -c conda-forge opencv=3.2.0 в консоли Anaconda Prompt.
 
 Файл TaxyDetector.py содержит код для запуска приложения.
 Файл VideoProcessing.py содержит функции для обработки видео.
+
+![result](https://user-images.githubusercontent.com/25879039/30267033-66b9d588-970b-11e7-84bd-49f78a33edd2.png)
